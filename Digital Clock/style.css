@@ -1,0 +1,26 @@
+body{
+    background-color: #272727;
+    color: white;
+}
+.center{
+    display: grid;
+    justify-content: center;
+    padding: 150px;
+    background-color:#272727;
+    
+}
+#clock{
+    background-color: orange;
+    margin: 10px;
+    padding:20px;
+    width: 250px;
+    height: 20px;
+    justify-content: center;
+    display: flex;
+    font-size: larger;
+    border-radius: 10px;
+    border:2px solid black;
+}
+#banner{
+    padding-left: 100px;
+}

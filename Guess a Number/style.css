@@ -1,0 +1,43 @@
+
+body{
+    background-color: darkseagreen;
+    margin: 100px;
+}
+.main{
+    display:grid ;
+    justify-content: center;
+    background-color: cadetblue;
+    border-radius: 20px 20px 20px 20px;
+}
+h1,h2,h3{
+    display: flex;
+    justify-content: center;
+}
+#inputValue{
+    margin: 10px;
+    height: 35px;
+    width: 293px;
+    border-radius: 15px 15px 0px 0px;
+    justify-content: center;
+    background-color:antiquewhite;
+}
+#onClick{
+    margin: 10px;
+    height: 35px;
+    width: 300px;
+    border-radius:0px 0px 15px 15px;
+    justify-content: center;
+    background-color:antiquewhite;
+    font-size: 14px;
+    color:black;
+    font-weight:bold;
+}
+.Note{
+    display: inline-flex;
+    justify-content: center;
+}
+p{
+    margin: -10px;
+    padding: 0px;
+}
+
